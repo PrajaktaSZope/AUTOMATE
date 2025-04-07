@@ -1,12 +1,11 @@
-public class lab002 {
+public class Lab003 {
 
     public static void main(String[] args) {
-        System.out.println("Helloworld");
-
-        // Single comment
+// Single comment
 
         /**
          this is multi comment
+         this will get ignored as its a comment
          */
         System.out.println("print the multi comment");
     }
